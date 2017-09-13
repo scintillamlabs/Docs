@@ -1,4 +1,4 @@
-####E-commerce application core objectives
+## E-commerce application core objectives
 
 - Mobile first e-commerce application.
 - 100 % stateless application.
